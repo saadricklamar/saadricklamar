@@ -7,4 +7,4 @@
 - ⚡ Fun facts: Denver native, world traveler, Syrian American, avid reader, & NBA lover
 ---------------
         
-![Saad's Github Stats](https://github-readme-stats.vercel.app/api?username=saadricklamar)
+![Saad's Github Stats](https://github-readme-stats.vercel.app/api?username=saadricklamar&show_icons=true&theme=radical)
