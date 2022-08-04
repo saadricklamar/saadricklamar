@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently diving-deep into TypeScript, React, Redux, Cypress, and Micro-Frontend Architecture.
+- 🌱 I’m currently diving-deep into TypeScript, React, Redux, Cypress, and Frontend Architecture.
 
 - ⚡ Fun facts: Denver native, world traveler, hiker, Syrian roots, avid reader, & NBA lover
 ---------------
