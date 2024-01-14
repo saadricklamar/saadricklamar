@@ -1,4 +1,4 @@
-### Hello, my name is Saad :v: [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more) :v:
+### Hello, my name is Saad :v:
 - 😄 Pronouns: He/Him
 
 - :computer: I'm currently building desktop applications and Chrome extensions in TypeScript, StencilJS, HTML/CSS, and Electron.
