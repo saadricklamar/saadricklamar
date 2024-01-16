@@ -1,7 +1,7 @@
 ### Hello, my name is Saad :v:
 - 😄 Pronouns: He/Him
 
-- :computer: I'm currently building desktop applications and Chrome extensions in TypeScript, React, StencilJS, HTML/CSS, and Electron.
+- :computer: I'm currently building desktop applications and Chrome extensions in TypeScript, React, StencilJS, and Electron.
 
 - :nerd_face: Areas of expertise: 
 
