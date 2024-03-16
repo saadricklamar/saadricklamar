@@ -1,12 +1,11 @@
 ### Hello, my name is Saad :v:
-- 😄 Pronouns: He/Him
 
 - :computer: I'm currently building desktop applications and Chrome extensions in TypeScript, React, StencilJS, and Electron.
 
 - :nerd_face: Areas of expertise: 
 
   - :book: Languages: JavaScript, TypeScript, HTML/CSS
-  - :electron: Frameworks: React, Vue, Electron, jQuery
+  - :electron: Frameworks: React, Vue, Electron, jQuery, TailwindCSS
   - 🧪 Testing: Cypress, Jest/Enzyme, Playwright
   - 📚 Libraries: Redux, SASS, StencilJS, Styled Components, Webpack
   - 🧰 Tooling: Git, Bitbucket, Jira, Clickup, Linux, CircleCI, Figma, Postman, Scrum/Kanban
