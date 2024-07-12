@@ -1,6 +1,6 @@
 ### Hello, my name is Saad :v:
 
-- :computer: I'm currently building desktop applications and Chrome extensions in TypeScript, React, StencilJS, and Electron.
+- :computer: I've built a variety web client, desktop applications, & chrome extensions in the geo-spatial, healthcare, and AI spaces.
 
 - :nerd_face: Areas of expertise: 
 
