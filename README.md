@@ -4,7 +4,7 @@
 
 - :nerd_face: Areas of expertise: 
 
-  - :book: Languages: JavaScript, TypeScript, HTML/CSS
+  - :book: Languages: JavaScript, TypeScript, PHP, HTML/CSS
   - :electron: Frameworks: React, Vue, Electron, jQuery, TailwindCSS
   - 🧪 Testing: Cypress, Jest/Enzyme, Playwright
   - 📚 Libraries: Redux, SASS, StencilJS, Styled Components, Webpack
